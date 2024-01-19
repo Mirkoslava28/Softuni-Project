@@ -8,3 +8,6 @@ Courses from my education in Softuni
 =apple
 
 -krushi
+
+
+-zhivko qde qbalka
