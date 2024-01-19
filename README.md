@@ -5,5 +5,16 @@ Courses from my education in Softuni
 -zthird
 -First row added
 -Second row added
+=apple
 -row after first branch
+
+-krushi
+
+
+-zhivko qde qbalka
+
+
+
+-az v momoenta iskam da dobavq che MIroni qde qbalka
+-zhivko kazva che qde krusha
 
