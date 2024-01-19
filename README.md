@@ -11,3 +11,6 @@ Courses from my education in Softuni
 
 
 -zhivko qde qbalka
+
+
+-zhivko kazva che qde krusha
