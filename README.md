@@ -5,5 +5,6 @@ Courses from my education in Softuni
 -zthird
 -First row added
 -Second row added
+=apple
 
 -krushi
