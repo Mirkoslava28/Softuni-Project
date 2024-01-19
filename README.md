@@ -13,4 +13,7 @@ Courses from my education in Softuni
 -zhivko qde qbalka
 
 
+
 -az v momoenta iskam da dobavq che MIroni qde qbalka
+-zhivko kazva che qde krusha
+
